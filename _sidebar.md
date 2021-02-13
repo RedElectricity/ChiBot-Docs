@@ -7,3 +7,5 @@
     * [Stock](guide/Stock.md)
     * [UserCenter](guide/UserCenter.md)
     * [BanTools](guide/BanTools.md)
+
+* [服务条款](p.md)
