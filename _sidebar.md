@@ -7,6 +7,7 @@
     * [Stock](guide/Stock.md)
     * [UserCenter](guide/UserCenter.md)
     * [BanTools](guide/BanTools.md)
+    * [SteamTools](guide/SteamTools.md)
 
 * [服务条款](p.md)
 
