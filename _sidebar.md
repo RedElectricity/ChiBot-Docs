@@ -8,6 +8,7 @@
     * [UserCenter](guide/UserCenter.md)
     * [BanTools](guide/BanTools.md)
     * [SteamTools](guide/SteamTools.md)
+    * [CytoidTools](guide/CytoidTools.md)
 
 * [服务条款](p.md)
 
