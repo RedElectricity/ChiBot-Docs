@@ -9,6 +9,8 @@
 
 感谢湖精姐的湖精云 托管ChiBot
 
+爱发电Donate：https://afdian.net/@RedElectricity
+
 ```
 新年了，各位注意啦！
 
