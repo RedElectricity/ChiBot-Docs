@@ -18,6 +18,8 @@
 1. 请描述清楚是有什么问题
 2. 请用简介的语言描述
 
+![提问的艺术](we.jpg)
+
 ## 表单
 
 http://f5s2tyvlhnh2i35m.mikecrm.com/ikPDTGU
