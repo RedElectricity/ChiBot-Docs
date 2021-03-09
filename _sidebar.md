@@ -9,6 +9,7 @@
     * [BanTools](guide/BanTools.md)
     * [SteamTools](guide/SteamTools.md)
     * [CytoidTools](guide/CytoidTools.md)
+    * [WebHookTools](guide/WebHook.md)
 
 * [服务条款](p.md)
 
