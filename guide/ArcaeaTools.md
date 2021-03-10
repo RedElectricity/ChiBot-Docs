@@ -16,6 +16,28 @@
 /arc-unbind
 ```
 
+### 账号设定
+
+#### 基本指令
+
+```
+/arc-config
+```
+
+##### 更换主题
+
+```
+/arc-config theme <Theme ID>
+```
+
+现在有以下主题：
+
+| Theme ID | 详细                    |
+| -------- | ----------------------- |
+| text     | 文字查询                |
+| arc      | Arcaea 风查分界面       |
+| chiarc   | ChiBotの查分界面（WIP） |
+
 ## Arcaea 分数查询
 
 ### Arcaea 最近分数
