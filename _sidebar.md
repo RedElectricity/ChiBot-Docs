@@ -10,6 +10,7 @@
     * [SteamTools](guide/SteamTools.md)
     * [CytoidTools](guide/CytoidTools.md)
     * [WebHookTools](guide/WebHook.md)
+    * [WebMessage](guide/WebMessage.md)
 
 * [服务条款](p.md)
 
