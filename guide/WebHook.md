@@ -2,6 +2,10 @@
 
 > Just For GitHub!!!!!!!!!!!!
 
+WebHook设置：
+
+<img src="webhook_setting.png" alt="WebHook Setting" style="zoom:50%;" />
+
 ## 创建WebHook
 
 ```
