@@ -5,7 +5,7 @@
 ### 绑定账号
 
 ```
-/arc-bind <ArcaeaID>
+/arc bind <ArcaeaID>
 ```
 
 注意：0开头的ArcaeaID 无法添加
@@ -13,7 +13,7 @@
 ### 取消绑定账号
 
 ```
-/arc-unbind
+/arc unbind
 ```
 
 ### 账号设定
@@ -21,13 +21,13 @@
 #### 基本指令
 
 ```
-/arc-config
+/arc config
 ```
 
 ##### 更换主题
 
 ```
-/arc-config theme <Theme ID>
+/arc config theme <Theme ID>
 ```
 
 现在有以下主题：
@@ -43,7 +43,7 @@
 ### Arcaea 最近分数
 
 ```
-/arc-info
+/arc info
 ```
 
 需要绑定账号
@@ -53,7 +53,7 @@
 ### Arcaea Best30
 
 ```
-/arc-b30
+/arc b30
 ```
 
 由于Best30的特殊性，所以会查得慢，请不要重复查询
@@ -63,7 +63,7 @@
 ### Arcaea 曲目查询
 
 ```
-/arc-si <SongName>
+/arc si <SongName>
 ```
 
 ## Arcaea比赛

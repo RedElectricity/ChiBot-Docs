@@ -5,7 +5,7 @@
 ### 注册
 
 ```
-/user-reg
+/user reg
 ```
 
 ### 查看信息
@@ -17,7 +17,7 @@
 ## 更新账号签名
 
 ```
-/user-text <text>
+/user text <text>
 ```
 
 > 此操作需要花费 500 coin
@@ -27,13 +27,13 @@
 ### 初始化大礼包
 
 ```
-/user-tick
+/user tick
 ```
 
 ### 每日签到
 
 ```
-/user-sign
+/user sign
 ```
 
 每日零点开始可以签到
@@ -41,7 +41,7 @@
 ### 使用礼包码
 
 ```
-/user-code <礼包码>
+/user code <礼包码>
 ```
 
 > 只能领取一次
