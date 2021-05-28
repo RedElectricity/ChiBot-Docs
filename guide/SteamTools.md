@@ -6,7 +6,7 @@
 >
 > 使用本模块意味着您的头像将会放出来
 
-![SteamID](steam.png)
+![SteamID](Picture/steam.png)
 
 ## Steam 账号操作
 

@@ -14,21 +14,21 @@
 /user
 ```
 
-## 更新账号签名
+### 更改用户等级
 
 ```
-/user text <text>
+/user setlevel <UserLevel>
 ```
 
-> 此操作需要花费 500 coin
+> 权限：Bot管理员
+
+| 用户等级 | 详细        |
+| -------- | ----------- |
+| 0        | Banned 用户 |
+| 1        | 普通用户    |
+| 2        | 超级用户    |
 
 ## 获取coin
-
-### 初始化大礼包
-
-```
-/user tick
-```
 
 ### 每日签到
 
@@ -49,7 +49,9 @@
 ### 增加礼包码
 
 ```
-/user-code-add <code> <次数> <coin数> <EXP数>
+/user code-add <code> <次数> <coin数> <EXP数>
 ```
 
 > 权限：Bot管理员
+
+### 

@@ -4,27 +4,21 @@
 
 WebHook设置：
 
-<img src="webhook_setting.png" alt="WebHook Setting" style="zoom:50%;" />
+<img src="Picture/webhook_setting.png" alt="WebHook Setting" style="zoom:25%;" />
 
 ## 创建WebHook
 
 ```
-/webhook-create
+/webhook add <REPO>
 ```
 
-会返回 WebHookID 和 需要在 GitHub 绑定的URL
+> 权限:仅限群组
 
-## 绑定WebHooK
-
-```
-/webhook-bind <WebHookID> <SECRET> <REPO>
-```
-
-REPO格式：`<User>/<REPO>`
+会返回WebHookURL和WebHookID
 
 ## 删除WebHook
 
 ```
-/webhook-del <WebHookID>
+/webhook del <WebHookID>
 ```
 

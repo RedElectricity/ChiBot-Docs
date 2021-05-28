@@ -37,6 +37,8 @@
 | text     | 文字查询                |
 | arc      | Arcaea 风查分界面       |
 | chiarc   | ChiBotの查分界面（WIP） |
+| grass    | 草草的查分图(纯手绘)    |
+| card     | 精简的查分图            |
 
 ## Arcaea 分数查询
 
@@ -71,23 +73,15 @@
 ### Arcaea比赛 开房间
 
 ```
-/arc-mp <songsid> <difficult>
+/amp <songsid> <difficult>
 ```
 
 需要绑定账号，仅限4个人
 
-#### difficult详细
-
-| 0    | 过去（PST） |
-| ---- | ----------- |
-| 1    | 现在（PRE） |
-| 2    | 未来（FTR） |
-| 3    | 超越（BYD） |
-
 ### Arcaea比赛 加入比赛
 
 ```
-/arc-mp-join <RoomID>
+/amp join <RoomID>
 ```
 
 需要绑定账号
@@ -95,7 +89,7 @@
 ### Arcaea比赛 查看房间
 
 ```
-/arc-mp-info
+/amp info
 ```
 
 > 权限：房间房主
@@ -103,7 +97,7 @@
 ### Arcaea比赛 开始比赛
 
 ```
-/arc-mp-start
+/amp start
 ```
 
 > 权限：房间房主
@@ -111,7 +105,7 @@
 ### Arcaea比赛 删除房间
 
 ```
-/arc-mp-del
+/amp del
 ```
 
 > 权限：房间房主
