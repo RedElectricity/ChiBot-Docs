@@ -1,8 +1,5 @@
 # ChiBot
 
-
-> ChiBot是RedElectricity开发的QQ机器人，隶属于ChiAbility
-
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="72" height="20" role="img" aria-label="ChiBot: V2">
   <title>ChiBot: V2</title>
   <linearGradient id="s" x2="0" y2="100%">
@@ -24,6 +21,15 @@
     <text x="585" y="140" transform="scale(.1)" fill="#fff" textLength="150">V2</text>
   </g>
 </svg>
+
+
+> ChiBot是RedElectricity开发的QQ机器人，隶属于ChiAbility
+
+```
+DBQ DBQ DQB DQB,由于赤电酱没有仔细的检查代码就使用全局广播真的很DBQ,现在按理来说没有问题了,请千万不要把ChiBot酱禁言,以免造成风控等,对于昨天的事真的很DBQ
+DBQ DBQ DBQ DBQ DBQ DBQ DBQ DBQ DBQ DBQ DBQ DBQ DBQ DBQ DBQ DBQ DBQ DBQ DBQ DBQ DBQ DBQ DBQ DBQ DBQ DBQ 
+```
+
 
 开始使用：[传送门](guide/README.md)
 

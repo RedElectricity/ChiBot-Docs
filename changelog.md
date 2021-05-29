@@ -1,6 +1,6 @@
 # 更新日志
 
-## Dev V2.0.2 2021/5/2x
+## Dev V2.0.2 2021/5/29
 
 ### 细节更新:
 
@@ -16,7 +16,19 @@ Arcaea Card Theme 颜色字体等调整
 
 ### StockMarket 股票市场
 
-### WebAPI
+### WebAPI - Arcaea Card
+
+### Arcaea 曲绘猜猜看
+
+### 全新broadcast tools
+
+### DevelopTools
+
+### 修复Bug
+
+Webhook不能正常接收POST
+
+草图生成等不能生成
 
 ## Dev V2.0.1 2021/5/19
 
