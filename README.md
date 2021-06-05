@@ -25,12 +25,6 @@
 
 > ChiBot是RedElectricity开发的QQ机器人，隶属于ChiAbility
 
-```
-DBQ DBQ DQB DQB,由于赤电酱没有仔细的检查代码就使用全局广播真的很DBQ,现在按理来说没有问题了,请千万不要把ChiBot酱禁言,以免造成风控等,对于昨天的事真的很DBQ
-DBQ DBQ DBQ DBQ DBQ DBQ DBQ DBQ DBQ DBQ DBQ DBQ DBQ DBQ DBQ DBQ DBQ DBQ DBQ DBQ DBQ DBQ DBQ DBQ DBQ DBQ 
-```
-
-
 开始使用：[传送门](guide/README.md)
 
 <div align=center><img src="http://q1.qlogo.cn/g?b=qq&nk=1654723334&s=640" alt="icon" style="zoom:50%;" />
