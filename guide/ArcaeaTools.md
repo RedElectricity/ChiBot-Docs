@@ -1,5 +1,7 @@
 # ArcaeaTools
 
+> ArcaeaTools 的数据来源于BotArcAPI
+
 ## Arcaea 账号管理
 
 ### 绑定账号
